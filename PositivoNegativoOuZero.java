@@ -1,3 +1,5 @@
+//Ler um valor e escrever se é positivo, negativo ou zero
+
 package Exercicios14ao43;
 	import java.util.*;
 	
