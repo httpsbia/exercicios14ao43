@@ -1,3 +1,6 @@
+//Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela
+//poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu). 
+
 package Exercicios14ao43:
 import java.util.*;
 public class AnoNascimento {
